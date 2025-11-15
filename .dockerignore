@@ -1,0 +1,15 @@
+node_modules
+**/node_modules
+.git
+.gitignore
+Dockerfile
+**/.next
+**/dist
+**/build
+reports
+.tmp
+.dockerignore
+.env
+.env.*
+!.env.example
+
